@@ -1,0 +1,5 @@
+name: Boarder
+main: org.xjcraft.boarder.Boarder
+version: ${project.version}
+author: reezhu
+softdepend: []
